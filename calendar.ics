@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Marc Life System//Calendar//EN
+
+BEGIN:VEVENT
+UID:roth-review-2026
+DTSTAMP:20260312T120000Z
+DTSTART:20261001T160000Z
+SUMMARY:Roth Conversion Planning Review
+DESCRIPTION:Review Roth conversion strategy for the year.
+END:VEVENT
+
+END:VCALENDAR
