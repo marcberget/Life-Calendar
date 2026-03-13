@@ -1,6 +1,39 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Marc Life Calendar//EN
+PRODID:-//Marc Life Calendar//Retirement Strategy//EN
 CALSCALE:GREGORIAN
+
+BEGIN:VEVENT
+UID:roth-planning
+DTSTAMP:20260313T120000Z
+DTSTART:20261001T160000Z
+RRULE:FREQ=YEARLY
+SUMMARY:Roth Conversion Planning Review
+DESCRIPTION:Review Roth conversion strategy before tax planning season.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:retirement-review
+DTSTAMP:20260313T120000Z
+DTSTART:20270115T160000Z
+RRULE:FREQ=YEARLY
+SUMMARY:Annual Retirement Readiness Review
+DESCRIPTION:Review portfolio, spending assumptions and retirement timeline.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ss-review-marc
+DTSTAMP:20260313T120000Z
+DTSTART:20360901T160000Z
+SUMMARY:Marc Social Security Filing Review
+DESCRIPTION:Final review before starting benefits at age 70.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ss-start-marc
+DTSTAMP:20260313T120000Z
+DTSTART:20370315T160000Z
+SUMMARY:Start Social Security Benefits (Marc)
+END:VEVENT
 
 END:VCALENDAR
