@@ -1,6 +1,85 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Marc Life Calendar//EN
+PRODID:-//Marc Life Calendar//Lifestyle Travel//EN
 CALSCALE:GREGORIAN
-
+BEGIN:VEVENT
+UID:summer-travel-planning
+DTSTAMP:20260314T052946Z
+DTSTART:20260115T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Summer Travel Planning
+DESCRIPTION:Plan summer travel\, lodging\, dog logistics\, golf options\, and how travel intersects with Reno occupancy and residency day counts.
+END:VEVENT
+BEGIN:VEVENT
+UID:winter-travel-planning
+DTSTAMP:20260314T052946Z
+DTSTART:20260915T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Winter Travel Planning
+DESCRIPTION:Plan winter travel and how it fits with Indio occupancy\, holiday plans\, dog logistics\, and residency day tracking.
+END:VEVENT
+BEGIN:VEVENT
+UID:relocate-to-reno
+DTSTAMP:20260314T052946Z
+DTSTART:20270501T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Relocate to Reno (Summer Season)
+DESCRIPTION:Seasonal move to Reno.\n\nChecklist:\n• Update CA/NV day tracking\n• Shut down or secure Indio systems\n• Confirm Reno startup items\n• Coordinate mail\, dogs\, and travel logistics
+END:VEVENT
+BEGIN:VEVENT
+UID:return-to-indio
+DTSTAMP:20260314T052946Z
+DTSTART:20271015T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Return to Indio (Winter Season)
+DESCRIPTION:Seasonal move back to Indio.\n\nChecklist:\n• Update CA/NV day tracking\n• Prep Reno for cold season\n• Restart Indio systems\n• Confirm mail\, utilities\, and house readiness
+END:VEVENT
+BEGIN:VEVENT
+UID:annual-dog-wellness
+DTSTAMP:20260314T052946Z
+DTSTART:20260401T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Annual Dog Wellness Planning
+DESCRIPTION:Schedule annual vet visits and review preventive care\, meds\, vaccines\, weight\, and any travel-related pet logistics for both goldens.
+END:VEVENT
+BEGIN:VEVENT
+UID:golf-season-goals
+DTSTAMP:20260314T052946Z
+DTSTART:20260201T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Golf Season Goals Review
+DESCRIPTION:Set practice goals\, handicap goals\, wedge-distance focus\, tournament ideas\, and any travel-golf planning for the year.
+END:VEVENT
+BEGIN:VEVENT
+UID:photo-backup-review
+DTSTAMP:20260314T052946Z
+DTSTART:20260601T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Photo Backup / Archive Review
+DESCRIPTION:Review camera card workflow\, archive health\, panorama pipeline\, and backups.\n\nConfirm important trip or life-event photos are safely stored.
+END:VEVENT
+BEGIN:VEVENT
+UID:vehicle-maintenance-planning
+DTSTAMP:20260314T052946Z
+DTSTART:20260215T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Vehicle Maintenance Planning
+DESCRIPTION:Review service needs before major travel and seasonal relocation.\n\nFocus on reliability items\, tires\, battery condition\, and travel readiness for the 4Runner and other vehicles.
+END:VEVENT
+BEGIN:VEVENT
+UID:marc-birthday
+DTSTAMP:20260314T052946Z
+DTSTART;VALUE=DATE:20270315
+RRULE:FREQ=YEARLY
+SUMMARY:Marc Birthday
+DESCRIPTION:Birthday.
+END:VEVENT
+BEGIN:VEVENT
+UID:lori-birthday
+DTSTAMP:20260314T052946Z
+DTSTART;VALUE=DATE:20271219
+RRULE:FREQ=YEARLY
+SUMMARY:Lori Birthday
+DESCRIPTION:Birthday.
+END:VEVENT
 END:VCALENDAR
