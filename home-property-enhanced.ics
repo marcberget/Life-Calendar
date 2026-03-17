@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Marc Life Calendar//Home Property//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:indio-hvac-summer-startup
+DTSTAMP:20260314T052946Z
+DTSTART:20260401T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Indio HVAC Summer Startup
+DESCRIPTION:Prepare Indio HVAC for desert heat.\n\nChecklist:\n• Change / inspect filters\n• Test thermostat\n• Inspect condenser area\n• Verify airflow and cooling performance
+END:VEVENT
+BEGIN:VEVENT
+UID:indio-irrigation-inspection
+DTSTAMP:20260314T052946Z
+DTSTART:20260501T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Indio Irrigation System Inspection
+DESCRIPTION:Inspect emitters\, leaks\, timer settings\, and coverage before peak heat.\n\nAdjust schedule for desert conditions and current planting needs.
+END:VEVENT
+BEGIN:VEVENT
+UID:indio-hvac-winter-prep
+DTSTAMP:20260314T052946Z
+DTSTART:20261015T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Indio HVAC Winter Prep
+DESCRIPTION:Seasonal Indio HVAC check before cool season.\n\nInspect filters\, thermostat schedules\, and any deferred maintenance from summer.
+END:VEVENT
+BEGIN:VEVENT
+UID:ca-property-tax-reminder-1
+DTSTAMP:20260314T052946Z
+DTSTART:20261115T090000
+RRULE:FREQ=YEARLY
+SUMMARY:CA Property Tax Reminder (1st Installment)
+DESCRIPTION:California secured property tax reminder.\n\nFirst installment due in December. Verify payment path and escrow status.
+END:VEVENT
+BEGIN:VEVENT
+UID:ca-property-tax-reminder-2
+DTSTAMP:20260314T052946Z
+DTSTART:20270325T090000
+RRULE:FREQ=YEARLY
+SUMMARY:CA Property Tax Reminder (2nd Installment)
+DESCRIPTION:California secured property tax reminder.\n\nSecond installment due in April. Verify payment path and escrow status.
+END:VEVENT
+BEGIN:VEVENT
+UID:reno-hvac-startup
+DTSTAMP:20260314T052946Z
+DTSTART:20280501T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Reno HVAC Summer Startup
+DESCRIPTION:Prepare Reno HVAC for summer occupancy.\n\nChecklist:\n• Inspect filters\n• Test thermostat\n• Verify cooling operation\n• Check exterior unit condition
+END:VEVENT
+BEGIN:VEVENT
+UID:reno-winter-prep
+DTSTAMP:20260314T052946Z
+DTSTART:20271001T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Reno HVAC / Winter Prep
+DESCRIPTION:Prepare Reno house for cold season.\n\nChecklist:\n• Confirm heating operation\n• Inspect filters\n• Check insulation / weather seals\n• Review any winterization items
+END:VEVENT
+BEGIN:VEVENT
+UID:nv-property-tax-1
+DTSTAMP:20260314T052946Z
+DTSTART:20270801T090000
+RRULE:FREQ=YEARLY
+SUMMARY:NV Property Tax Installment 1
+DESCRIPTION:Washoe County property tax installment reminder.\n\nVerify bill\, payment status\, and escrow handling if applicable.
+END:VEVENT
+BEGIN:VEVENT
+UID:nv-property-tax-2
+DTSTAMP:20260314T052946Z
+DTSTART:20271001T090000
+RRULE:FREQ=YEARLY
+SUMMARY:NV Property Tax Installment 2
+DESCRIPTION:Washoe County property tax installment reminder.\n\nVerify bill\, payment status\, and escrow handling if applicable.
+END:VEVENT
+BEGIN:VEVENT
+UID:nv-property-tax-3
+DTSTAMP:20260314T052946Z
+DTSTART:20280101T090000
+RRULE:FREQ=YEARLY
+SUMMARY:NV Property Tax Installment 3
+DESCRIPTION:Washoe County property tax installment reminder.\n\nVerify bill\, payment status\, and escrow handling if applicable.
+END:VEVENT
+BEGIN:VEVENT
+UID:nv-property-tax-4
+DTSTAMP:20260314T052946Z
+DTSTART:20280301T090000
+RRULE:FREQ=YEARLY
+SUMMARY:NV Property Tax Installment 4
+DESCRIPTION:Washoe County property tax installment reminder.\n\nVerify bill\, payment status\, and escrow handling if applicable.
+END:VEVENT
+BEGIN:VEVENT
+UID:pool-equipment-review
+DTSTAMP:20260314T052946Z
+DTSTART:20260301T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Indio Pool Equipment / Salt System Review
+DESCRIPTION:Review pump\, filter\, salt system\, chemistry trends\, visible vibration\, leaks\, and any dog-hair-related filtration issues before heavy-use season.
+END:VEVENT
+BEGIN:VEVENT
+UID:homeowners-insurance-review
+DTSTAMP:20260314T052946Z
+DTSTART:20261101T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Homeowners Insurance Review
+DESCRIPTION:Review premium\, coverage\, deductibles\, and carrier options for active property policies.\n\nUse this event to compare both CA and NV property coverage once the NV home exists.
+END:VEVENT
+END:VCALENDAR

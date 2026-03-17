@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Marc Life Calendar//Financial Operations//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:quarterly-portfolio-review
+DTSTAMP:20260314T052946Z
+DTSTART:20260115T090000
+RRULE:FREQ=YEARLY;BYMONTH=1,4,7,10;BYMONTHDAY=15
+SUMMARY:Quarterly Portfolio Review
+DESCRIPTION:Quarterly investment check-in.\n\nChecklist:\n• Review allocation and drift\n• Review cash and CD ladder\n• Evaluate rebalance needs\n• Review concentrated positions\n• Confirm liquidity for near-term goals
+END:VEVENT
+BEGIN:VEVENT
+UID:annual-life-admin-review
+DTSTAMP:20260314T052946Z
+DTSTART:20270105T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Annual Life Administration Review
+DESCRIPTION:Big-picture annual review.\n\nChecklist:\n• Financial plan\n• Tax strategy\n• Insurance renewals\n• Residency compliance\n• Estate planning status\n• Technology / backup review\n• Travel season planning
+END:VEVENT
+BEGIN:VEVENT
+UID:federal-tax-deadline
+DTSTAMP:20260314T052946Z
+DTSTART:20260415T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Federal Tax Filing Deadline
+DESCRIPTION:File federal return or extension.\n\nVerify payment status\, estimated tax needs\, and whether supporting docs for Roth conversions\, gains/losses\, and charitable deductions are complete.
+END:VEVENT
+BEGIN:VEVENT
+UID:midyear-financial-review
+DTSTAMP:20260314T052946Z
+DTSTART:20260715T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Mid-Year Financial Review
+DESCRIPTION:Mid-year checkpoint.\n\nReview: spending versus plan\, taxable income year-to-date\, portfolio withdrawal assumptions\, and whether any adjustments are needed before year-end.
+END:VEVENT
+BEGIN:VEVENT
+UID:tax-strategy-review
+DTSTAMP:20260314T052946Z
+DTSTART:20261015T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Tax Strategy Review
+DESCRIPTION:Review current-year income and remaining tax bracket room.\n\nGoal: inform Roth conversions\, gains harvesting\, charitable giving\, and withholding decisions before December.
+END:VEVENT
+BEGIN:VEVENT
+UID:year-end-tax-planning
+DTSTAMP:20260314T052946Z
+DTSTART:20261201T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Year-End Tax Planning
+DESCRIPTION:Finalize end-of-year tax actions.\n\nChecklist:\n• Roth conversion amount\n• Gain/loss harvesting\n• Charitable planning\n• Withholding / estimated tax check\n• Documentation for CPA / records
+END:VEVENT
+BEGIN:VEVENT
+UID:roth-conversion-planning
+DTSTAMP:20260314T052946Z
+DTSTART:20261001T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Roth Conversion Planning
+DESCRIPTION:Estimate total taxable income and determine tentative Roth conversion amount.\n\nChecklist:\n• Forecast income\n• Calculate bracket room\n• Check Medicare / IRMAA exposure later in life\n• Decide tentative conversion amount
+END:VEVENT
+BEGIN:VEVENT
+UID:roth-conversion-execution
+DTSTAMP:20260314T052946Z
+DTSTART:20261201T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Roth Conversion Execution
+DESCRIPTION:Execute planned Roth conversion(s).\n\nChecklist:\n• Complete conversion\n• Save confirmation records\n• Update tax projection\n• Update withdrawal / RMD outlook
+END:VEVENT
+BEGIN:VEVENT
+UID:nv-residency-compliance-review
+DTSTAMP:20260314T052946Z
+DTSTART:20280110T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Nevada Residency Compliance Review
+DESCRIPTION:Annual Nevada domicile review.\n\nChecklist:\n• Driver license\n• Vehicle registrations\n• Voter registration\n• Mailing addresses\n• Banking / brokerage footprint\n• Medical / social / professional ties\n• Residency evidence archive
+END:VEVENT
+BEGIN:VEVENT
+UID:day-count-verification
+DTSTAMP:20260314T052946Z
+DTSTART:20271215T090000
+RRULE:FREQ=YEARLY
+SUMMARY:CA vs NV Day Count Verification
+DESCRIPTION:Review the year’s California and Nevada day counts.\n\nGoal: confirm Nevada remains primary domicile and that California overstay risk is controlled.\nPreserve calendar evidence if needed.
+END:VEVENT
+BEGIN:VEVENT
+UID:contact-washoe-assessor-20270615
+DTSTAMP:20260314T052946Z
+DTSTART;VALUE=DATE:20270615
+SUMMARY:Contact Washoe County Assessor
+DESCRIPTION:Confirm property tax classification and any primary-residence-related status after establishing Nevada domicile.\n\nDocument who you spoke with and any follow-up needed.
+END:VEVENT
+BEGIN:VEVENT
+UID:first-nv-mortgage-payment-20270601
+DTSTAMP:20260314T052946Z
+DTSTART;VALUE=DATE:20270601
+SUMMARY:First NV Mortgage Payment
+DESCRIPTION:First payment due on Nevada home mortgage.\n\nConfirm autopay\, escrow assumptions\, insurance billing\, and lender account access.
+END:VEVENT
+BEGIN:VEVENT
+UID:annual-mortgage-review
+DTSTAMP:20260314T052946Z
+DTSTART:20280105T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Annual Mortgage Review
+DESCRIPTION:Review mortgage status\, balance trend\, autopay\, escrow\, insurance\, and whether any extra-pay or refi decision is worth considering.
+END:VEVENT
+END:VCALENDAR

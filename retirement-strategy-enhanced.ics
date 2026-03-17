@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Marc Life Calendar//Retirement Strategy//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:retirement-target-20270315
+DTSTAMP:20260314T052946Z
+DTSTART;VALUE=DATE:20270315
+SUMMARY:Target Retirement Date
+DESCRIPTION:Target retirement from Lockheed Martin.\n\nUse this as the anchor event for the full retirement timeline.\nReview: final compensation\, annual incentive payout timing\, health coverage transition\, cash reserves\, and first full-retirement-year tax plan.
+END:VEVENT
+BEGIN:VEVENT
+UID:final-pre-retirement-planning-20260315
+DTSTAMP:20260314T052946Z
+DTSTART;VALUE=DATE:20260315
+SUMMARY:Final Pre-Retirement Planning Year Begins
+DESCRIPTION:Start the final full planning year before retirement.\n\nReview: expected final working-year income\, bonus timing\, Roth conversion room\, Nevada home purchase timing\, and bridge-to-Medicare strategy.
+END:VEVENT
+BEGIN:VEVENT
+UID:pre-retirement-execution-20260915
+DTSTAMP:20260314T052946Z
+DTSTART;VALUE=DATE:20260915
+SUMMARY:Pre-Retirement Execution Phase
+DESCRIPTION:Six-month pre-retirement checkpoint.\n\nConfirm: retirement paperwork path\, cash reserve target\, first retirement-year withdrawal plan\, healthcare transition\, and open items that could delay retirement.
+END:VEVENT
+BEGIN:VEVENT
+UID:final-retirement-countdown-20261215
+DTSTAMP:20260314T052946Z
+DTSTART;VALUE=DATE:20261215
+SUMMARY:Final Retirement Countdown
+DESCRIPTION:Three-month retirement countdown.\n\nConfirm: final retirement date\, benefit elections\, payroll/bonus timing\, tax withholding\, and any last Roth conversion actions for the final employment year.
+END:VEVENT
+BEGIN:VEVENT
+UID:annual-retirement-readiness
+DTSTAMP:20260314T052946Z
+DTSTART:20270115T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Annual Retirement Readiness Review
+DESCRIPTION:Annual strategic review of the retirement plan.\n\nChecklist:\n• Review portfolio value and allocation\n• Update annual spend target\n• Re-check withdrawal strategy\n• Review Social Security assumptions\n• Review Medicare timing\n• Update long-range net worth / tax outlook
+END:VEVENT
+BEGIN:VEVENT
+UID:bonus-retirement-timing-review
+DTSTAMP:20260314T052946Z
+DTSTART:20260220T090000
+RRULE:FREQ=YEARLY
+SUMMARY:Bonus / Retirement Timing Review
+DESCRIPTION:Review Lockheed annual incentive timing versus retirement date.\n\nGoal: avoid leaving bonus money behind and understand tax-bracket effects of retiring before vs after payout.
+END:VEVENT
+BEGIN:VEVENT
+UID:nv-home-closing-20270501
+DTSTAMP:20260314T052946Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:NV Home Purchase / Closing
+DESCRIPTION:Closing on Nevada residence.\n\nThis is the trigger milestone for:\n• Nevada residency transition\n• NV mortgage payments\n• Washoe County property tax cycle\n• Reno house maintenance cycle\n• Seasonal living / snowbird pattern
+END:VEVENT
+BEGIN:VEVENT
+UID:nv-residency-transition-20270601
+DTSTAMP:20260314T052946Z
+DTSTART;VALUE=DATE:20270601
+SUMMARY:Begin Nevada Residency Transition
+DESCRIPTION:Begin Nevada domicile actions.\n\nChecklist:\n• NV driver license\n• NV vehicle registration\n• NV voter registration\n• Address changes for banking / brokerage / insurance\n• Review doctor\, club\, and service-provider footprint
+END:VEVENT
+BEGIN:VEVENT
+UID:post-retirement-review-20270615
+DTSTAMP:20260314T052946Z
+DTSTART;VALUE=DATE:20270615
+SUMMARY:90-Day Post-Retirement Review
+DESCRIPTION:First post-retirement stabilization review.\n\nCheck: actual spending\, withdrawal pattern\, tax withholding\, cash reserves\, healthcare costs\, and whether retirement timing assumptions still hold.
+END:VEVENT
+BEGIN:VEVENT
+UID:one-year-retirement-review-20280315
+DTSTAMP:20260314T052946Z
+DTSTART;VALUE=DATE:20280315
+SUMMARY:One-Year Retirement Review
+DESCRIPTION:Review the first full year of retirement.\n\nCheck: spending realism\, tax efficiency\, Roth conversion cadence\, residency compliance\, and whether any part of the plan needs to be recalibrated.
+END:VEVENT
+BEGIN:VEVENT
+UID:marc-medicare-eligibility-20320315
+DTSTAMP:20260314T052946Z
+DTSTART;VALUE=DATE:20320315
+SUMMARY:Marc Medicare Eligibility Month
+DESCRIPTION:Marc turns 65.\n\nReview Medicare elections and coordination with VA coverage.\nConfirm deadlines and any choices needed before coverage starts.
+END:VEVENT
+BEGIN:VEVENT
+UID:lori-medicare-eligibility-20321219
+DTSTAMP:20260314T052946Z
+DTSTART;VALUE=DATE:20321219
+SUMMARY:Lori Medicare Eligibility Month
+DESCRIPTION:Lori turns 65.\n\nReview enrollment\, supplemental coverage\, prescription coverage\, and expected premium / out-of-pocket effects.
+END:VEVENT
+BEGIN:VEVENT
+UID:lori-ss-review-20340901
+DTSTAMP:20260314T052946Z
+DTSTART;VALUE=DATE:20340901
+SUMMARY:Lori Social Security Filing Review
+DESCRIPTION:Final review before Lori's target Social Security start at age 67.\n\nCheck claiming decision\, expected benefit amount\, tax impact\, and how benefits fit into the overall withdrawal plan.
+END:VEVENT
+BEGIN:VEVENT
+UID:lori-ss-start-20341219
+DTSTAMP:20260314T052946Z
+DTSTART;VALUE=DATE:20341219
+SUMMARY:Lori Social Security Target Start
+DESCRIPTION:Target start of Lori's Social Security benefits at age 67.
+END:VEVENT
+BEGIN:VEVENT
+UID:marc-ss-review-20360901
+DTSTAMP:20260314T052946Z
+DTSTART;VALUE=DATE:20360901
+SUMMARY:Marc Social Security Filing Review
+DESCRIPTION:Final review before Marc's target Social Security start at age 70.\n\nCheck estimated benefit\, tax impact\, withdrawal changes\, and whether any Roth conversions should be accelerated beforehand.
+END:VEVENT
+BEGIN:VEVENT
+UID:marc-ss-start-20370315
+DTSTAMP:20260314T052946Z
+DTSTART;VALUE=DATE:20370315
+SUMMARY:Marc Social Security Target Start
+DESCRIPTION:Target start of Marc's Social Security benefits at age 70.
+END:VEVENT
+BEGIN:VEVENT
+UID:rmd-strategy-20400115
+DTSTAMP:20260314T052946Z
+DTSTART;VALUE=DATE:20400115
+SUMMARY:RMD Strategy Planning
+DESCRIPTION:Begin long-range planning for required minimum distributions.\n\nReview projected balances\, expected tax brackets\, and whether Roth conversions before RMD age are still warranted.
+END:VEVENT
+BEGIN:VEVENT
+UID:final-pre-rmd-20420115
+DTSTAMP:20260314T052946Z
+DTSTART;VALUE=DATE:20420115
+SUMMARY:Final Pre-RMD Planning
+DESCRIPTION:Final review before projected RMD phase.\n\nEstimate first-year distribution\, withholding\, charitable strategies\, and tax consequences.
+END:VEVENT
+BEGIN:VEVENT
+UID:first-rmd-year-20430115
+DTSTAMP:20260314T052946Z
+DTSTART;VALUE=DATE:20430115
+SUMMARY:First RMD Year (Planning Marker)
+DESCRIPTION:Planning marker for first projected RMD year.\n\nVerify current IRS rules at that time\, projected account balances\, withholding\, and tax-management strategy.
+END:VEVENT
+END:VCALENDAR
